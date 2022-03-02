@@ -9,7 +9,7 @@ Bot to get AWS access keys, the purpose is only to avoid repetitive routine task
 	
 ## Usage
 	
-1) Replace ACCOUNTNUMBER, ACCOUNTUSER, & PASSWORD with your credentials in the gtkeyaws.py
+1) Replace ACCOUNTNUMBER, ACCOUNTUSER, & PASSWORD with your credentials in the gtkeyaws.py file
 	
 2) Run the following command 	
   
